@@ -6,7 +6,7 @@
 # Forecast-Analysis
 The purpose of this project is to create a Forecast Analysis Dashboard for financial forecasting of a business unit.  
 
-* Step one - ETL data using sales orders
+* Step one - Extract data from Oracle using sales order reports
 * Step two - Calculate sales dollars, gross margin dollars and gross margin %
 * Step 3 - Create visualizations for presentation in Production, Sales and Inventory (PSI) review for business unit
 
@@ -22,5 +22,12 @@ The purpose of this project is to create a Forecast Analysis Dashboard for finan
 * Microsoft Excel
 * Oracle 12.1.3
 * MongoDB
+
+---
+## Tasks
+1.  Import libraries
+2.  Load jax open orders file
+3.  Read csv file into DataFrame, set Item as index
+
 
 ---
