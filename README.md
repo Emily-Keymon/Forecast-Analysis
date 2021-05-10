@@ -4,7 +4,7 @@
 
 ---
 # Forecast-Analysis
-The purpose of this project is to create a dashboard for financial forecasting of a business unit.  
+The purpose of this project is to create a Forecast Analysis Dashboard for financial forecasting of a business unit.  
 
 ---
 
