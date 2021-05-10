@@ -35,4 +35,5 @@ The purpose of this project is to create a Forecast Analysis Dashboard for finan
 #### Transform
 1.  
 
----
+#### Load
+1.
