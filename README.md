@@ -12,8 +12,8 @@ The purpose of this project is to create a Forecast Analysis Dashboard for finan
 
 ---
 ## Data Sources
-*
-*
+* https://github.com/Emily-Keymon/Forecast-Analysis/blob/main/Resources/JAX%20OPEN%20ORDERS.xlsx
+* https://github.com/Emily-Keymon/Forecast-Analysis/blob/main/Resources/LEX%20OPEN%20ORDERS.xlsx
 
 ---
 ## Tools Used
