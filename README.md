@@ -44,3 +44,8 @@ The purpose of this project is to create a Forecast Analysis Dashboard for finan
 ![Oracle_info](https://user-images.githubusercontent.com/64673015/104372260-99d43f80-54e5-11eb-92f3-a0254e50a4b7.PNG)
 
 ---
+## Results
+
+
+---
+
