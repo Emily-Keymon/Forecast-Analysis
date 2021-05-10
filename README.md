@@ -25,6 +25,8 @@ The purpose of this project is to create a Forecast Analysis Dashboard for finan
 
 ---
 ## Tasks
+### Sales Order Data
+#### Extract
 1.  Import libraries
 2.  Load jax open orders file
 3.  Read csv file into DataFrame, set Item as index
